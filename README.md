@@ -1,5 +1,5 @@
-Hi! i am a 32-year-old professional from Mexico, deeply passionate about innovation. I thrive on continuous learning and applying my knowledge effectively within my professional domain. 
-With 12 years of experience in sales, leadership, inventory management, 
+Hi! i am a 34-year-old professional from Mexico, deeply passionate about innovation. I thrive on continuous learning and applying my knowledge effectively within my professional domain. 
+With 13 years of experience in sales, leadership, inventory management, 
 and extensive SAP expertise, I bring a strategic mindset and a results-driven approach.
 My goal is to leverage my skills to create impactful solutions and drive forward-thinking projects, 
 embodying the principles of adaptability and technical excellence
