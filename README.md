@@ -1,8 +1,23 @@
-Hi! i am a 34-year-old professional from Mexico, deeply passionate about innovation. I thrive on continuous learning and applying my knowledge effectively within my professional domain. 
-With 13 years of experience in sales, leadership, inventory management, 
-and extensive SAP expertise, I bring a strategic mindset and a results-driven approach.
-My goal is to leverage my skills to create impactful solutions and drive forward-thinking projects, 
-embodying the principles of adaptability and technical excellence
+# Hi, I'm Daniel Terrazas
+
+Business and Operations professional with 13+ years of experience in retail operations, inventory management, sales leadership, and process improvement.
+
+I am currently transitioning into Data Analytics and Data Science, combining my business background with technical skills in Python, SQL, Power BI, Excel, and machine learning.
+
+My work focuses on solving real business problems through data analysis, automation, reporting, and predictive modeling.
+
+## Current Focus
+- Data Analysis with Python
+- SQL for business analytics
+- Machine Learning fundamentals
+- Business Intelligence and dashboards
+- Retail, inventory, and operations analytics
+
+## Featured Projects
+- Breast Cancer Classification with KNN
+- Wine Quality Classification
+- Penguins Data Analysis
+- Celsius Conversion Neural Network
 
 <!---
 Daniel210492/Daniel210492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
